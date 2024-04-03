@@ -12,8 +12,8 @@ public class Main {
   public static void main(String[] args) {
     
 
-    // winter, spring, summer, autumn
-    // warm jacket, t-shirt, swimming suit, raincoat
+
+    // warm jacket, jacket, t-shirt, nothing
 
     int temperature = -5;
 
